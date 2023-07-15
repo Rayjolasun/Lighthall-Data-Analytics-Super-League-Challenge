@@ -9,8 +9,8 @@ The Super League has 5 levels of challenges - 3 individual challenges and 2 team
 
 The challenges include:
 
-1. Challenge_1:  Cell Referencing       (Documentation link can be found [here](DASL_CHALLENGE_1.md))
-2. Challenge_2:  Detective SQL          (Documentation link can be found [here](DASL_CHALLENGE_2.md))
-3. Challenge_3:  Foodhub Orders
+1. Challenge_1:  Cell Referencing       (Documentation link can be found [Here](DASL_CHALLENGE_1.md))
+2. Challenge_2:  Detective SQL          (Documentation link can be found [Here](DASL_CHALLENGE_2.md))
+3. Challenge_3:  Foodhub Orders         (Documentation link can be found [Here](DASL_Challenge_3.ipynb))
 4. Challenge_4:  Movie Time
 5. Challenge_5:  Welcome to the Real World
